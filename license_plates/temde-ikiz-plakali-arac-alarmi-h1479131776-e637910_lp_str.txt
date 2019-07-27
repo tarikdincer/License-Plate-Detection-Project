@@ -1,0 +1,9 @@
+Muhtemel Plaka: --01I19
+Ihtimal Degerler: 	
+ 	
+ 	0: %36,K: %16
+ 	1: %14
+ 	I: %73,1: %10
+ 	1: %38
+ 	9: %12
+ 

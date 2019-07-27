@@ -1,0 +1,9 @@
+Muhtemel Plaka: 54MK001
+Ihtimal Degerler: 	5: %90
+ 	4: %88
+ 	M: %86,N: %82
+ 	K: %91
+ 	0: %89
+ 	0: %88
+ 	1: %86
+ 

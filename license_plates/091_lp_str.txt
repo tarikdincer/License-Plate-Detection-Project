@@ -1,0 +1,9 @@
+Muhtemel Plaka: 34EE397
+Ihtimal Degerler: 	3: %73
+ 	4: %89
+ 	E: %84
+ 	E: %91
+ 	3: %91
+ 	9: %88
+ 	7: %45,1: %40,3: %11
+ 

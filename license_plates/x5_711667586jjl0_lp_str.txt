@@ -1,0 +1,9 @@
+Muhtemel Plaka: -05GKV6
+Ihtimal Degerler: 	
+ 	0: %88
+ 	5: %62
+ 	G: %45,H: %22,M: %21
+ 	K: %44,N: %27,R: %17
+ 	V: %45
+ 	6: %48,C: %24,A: %13
+ 

@@ -1,0 +1,9 @@
+Muhtemel Plaka: HM335CA
+Ihtimal Degerler: 	H: %16
+ 	M: %87
+ 	3: %87,5: %13
+ 	3: %88
+ 	5: %86
+ 	C: %86
+ 	A: %88
+ 

@@ -1,0 +1,9 @@
+Muhtemel Plaka: 01AB345
+Ihtimal Degerler: 	0: %88
+ 	1: %87
+ 	A: %88
+ 	B: %88
+ 	3: %86
+ 	4: %88
+ 	5: %86,3: %22
+ 

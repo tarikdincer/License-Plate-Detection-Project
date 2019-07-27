@@ -1,0 +1,10 @@
+Muhtemel Plaka: 34M-T-48
+Ihtimal Degerler: 	3: %88
+ 	4: %86
+ 	M: %88
+ 	
+ 	T: %89
+ 	
+ 	4: %90
+ 	8: %90
+ 

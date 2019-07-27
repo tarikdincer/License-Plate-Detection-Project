@@ -1,0 +1,8 @@
+Muhtemel Plaka: CCQ489
+Ihtimal Degerler: 	C: %89
+ 	C: %89
+ 	Q: %90
+ 	4: %85,Z: %12
+ 	8: %90
+ 	9: %88
+ 

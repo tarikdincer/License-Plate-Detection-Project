@@ -1,0 +1,9 @@
+Muhtemel Plaka: 48DR048
+Ihtimal Degerler: 	4: %78,M: %10
+ 	8: %90,9: %22
+ 	D: %88
+ 	R: %90,B: %11
+ 	0: %90
+ 	4: %88
+ 	8: %88
+ 

@@ -1,0 +1,11 @@
+Muhtemel Plaka: -0-FU-21I
+Ihtimal Degerler: 	
+ 	0: %90
+ 	
+ 	F: %90
+ 	U: %88,0: %32
+ 	
+ 	2: %88
+ 	1: %88
+ 	I: %35
+ 
